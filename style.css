@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.main-visual {
+  height: 400px;
+  width: 100%;
+  background-image: url(img/mv.jpg);
+  background-size: cover;
+  background-position: bottom;
+}
+
+.main-visual-text {
+  color: #696969;
+  padding: 20px;
+}
+
+main {
+  width: 840px;
+  margin: 50px auto;
+}
+
+.main-item1 {
+  padding-bottom: 30px;
+  border-bottom: 1px solid gray;
+}
+
+.main-item2 {
+  padding: 30px 0;
+  border-bottom: 1px solid gray;
+}
+
+.main-item3 {
+  padding: 30px 0;
+  border-bottom: 1px solid gray;
+}
+
+.main-item4 {
+  padding: 30px 0;
+  border-bottom: 1px solid gray;
+}
